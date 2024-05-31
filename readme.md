@@ -32,7 +32,7 @@ This is an Android application for an ecommerce platform. It allows users to bro
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/minhhoccode/Pinduoduo-Android.git
+   git clone https://github.com/minhhoccode/Ecommerce-Vegetable-App.git
    ```
 2. **Open the project in Android Studio.**
 3. **Sync the project with Gradle files.**
