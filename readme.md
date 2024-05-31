@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an Android application for an ecommerce platform. It allows users to browse products 🍅🥕, add them to their cart 🛒, make purchases 💰, track orders 📦, and chat with a customer service representative 💬. The app provides a user-friendly interface ✨ and seamless navigation for an optimal shopping experience 👍.
+This is an Android application for an ecommerce platform. It allows users to browse products 🍅🥕, add them to their cart 🛒, make purchases 💰, track orders 📦, and chat with a AI customer service 💬. The app provides a user-friendly interface ✨ and seamless navigation for an optimal shopping experience 👍.
 
 ## Table of Contents
 
