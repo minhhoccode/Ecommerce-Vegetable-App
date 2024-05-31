@@ -32,7 +32,7 @@ This is an Android application for an ecommerce platform. It allows users to bro
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/minhhoccode/Pinduoduo-Android.git
+   git clone https://github.com/minhhoccode/Ecommerce-Vegetable-App.git
    ```
 2. **Open the project in Android Studio.**
 3. **Sync the project with Gradle files.**
@@ -56,8 +56,6 @@ This is an Android application for an ecommerce platform. It allows users to bro
         * Format and clean the data.
         * Upload each product as a document in the "products" collection in your Firebase database.
 6. **Build and run the app on an emulator or physical device** 📱. 
-
-This process sets up your database with the required product information, allowing the app to function correctly. 👍 
 
 ## Usage
 
