@@ -30,13 +30,34 @@ This is an Android application for an ecommerce platform. It allows users to bro
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/minhhoccode/Pinduoduo-Android.git
    ```
-2. Open the project in Android Studio.
-3. Sync the project with Gradle files.
-4. Build and run the app on an emulator or physical device 📱.
+2. **Open the project in Android Studio.**
+3. **Sync the project with Gradle files.**
+4. **Set up Firebase:** 
+    - Create a Firebase project and connect it to your Android app. 
+    - Download the `google-services.json` file and place it in your project's `app` directory.
+    - Enable email/password authentication in Firebase console.
+5. **Create and Populate the Database:**
+   - **Install Firebase Admin SDK:** 
+     ```bash
+     pip install firebase-admin
+     ```
+   - **Prepare Data:** Replace `"Your Firebase Admin SDK JSON file"` and `"Your Firebase Database URL"`  in `CreateFirebase.py` with your actual credentials and database URL. 
+   - **Run Script:** 
+     ```bash
+     python CreateFirebase.py 
+     ```
+     This script will:
+        * Connect to your Firebase project.
+        * Read product data from  `extracted_data.json`.
+        * Format and clean the data.
+        * Upload each product as a document in the "products" collection in your Firebase database.
+6. **Build and run the app on an emulator or physical device** 📱. 
+
+This process sets up your database with the required product information, allowing the app to function correctly. 👍 
 
 ## Usage
 
