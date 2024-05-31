@@ -57,8 +57,6 @@ This is an Android application for an ecommerce platform. It allows users to bro
         * Upload each product as a document in the "products" collection in your Firebase database.
 6. **Build and run the app on an emulator or physical device** 📱. 
 
-This process sets up your database with the required product information, allowing the app to function correctly. 👍 
-
 ## Usage
 
 1. Launch the app 🚀.
