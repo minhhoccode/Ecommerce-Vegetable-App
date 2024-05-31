@@ -13,5 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
-/app/google-services.json
-/app/doanandroid-14735-firebase-adminsdk-oyqn7-a6f9c4e6e2.json
+app/google-services.json
+app/doanandroid-14735-firebase-adminsdk-oyqn7-a6f9c4e6e2.json
