@@ -1,0 +1,6 @@
+com.vungocminh.doanandroid.test.app-annotation-experimental-1.4.0-0 /Users/vungocminh/.gradle/caches/transforms-3/0f70927e28e287962f78a2e7f90c3583/transformed/annotation-experimental-1.4.0/res
+com.vungocminh.doanandroid.test.app-core-1.5.0-1 /Users/vungocminh/.gradle/caches/transforms-3/a01608367bac5dde49b7cb5fa5679249/transformed/core-1.5.0/res
+com.vungocminh.doanandroid.test.app-androidTest-2 /Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/build/generated/res/resValues/androidTest/debug
+com.vungocminh.doanandroid.test.app-mergeDebugAndroidTestResources-3 /Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.vungocminh.doanandroid.test.app-mergeDebugAndroidTestResources-4 /Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.vungocminh.doanandroid.test.app-debugAndroidTest-5 /Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

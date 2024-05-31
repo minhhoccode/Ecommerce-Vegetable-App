@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://doanandroid-14735-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">308492106676</string>
+    <string name="google_api_key" translatable="false">AIzaSyCu88rUkIkYIGW7JTy4Y02izGwvNHQQjWI</string>
+    <string name="google_app_id" translatable="false">1:308492106676:android:2a1e40d0c80979e23550e1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCu88rUkIkYIGW7JTy4Y02izGwvNHQQjWI</string>
+    <string name="google_storage_bucket" translatable="false">doanandroid-14735.appspot.com</string>
+    <string name="project_id" translatable="false">doanandroid-14735</string>
+</resources>

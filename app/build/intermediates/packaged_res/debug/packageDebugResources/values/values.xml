@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#9EF01A</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="selectedColor">#FF00FF00</color>
+    <color name="unselectedColor">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">DoAnAndroid</string>
+    <string name="firebase_database_url" translatable="false">https://doanandroid-14735-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">308492106676</string>
+    <string name="google_api_key" translatable="false">AIzaSyCu88rUkIkYIGW7JTy4Y02izGwvNHQQjWI</string>
+    <string name="google_app_id" translatable="false">1:308492106676:android:2a1e40d0c80979e23550e1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCu88rUkIkYIGW7JTy4Y02izGwvNHQQjWI</string>
+    <string name="google_storage_bucket" translatable="false">doanandroid-14735.appspot.com</string>
+    <string name="project_id" translatable="false">doanandroid-14735</string>
+    <style name="Base.Theme.DoAnAndroid" parent="Theme.Material3.Light.NoActionBar">
+        
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">#0A4731</item>
+
+        <item name="android:drawableBottom">@drawable/bottom_nav_background</item>
+        <item name="android:drawableTop">@drawable/tab_bar_background</item>
+        <item name="android:drawableStart">@drawable/tab_bar_background</item>
+        <item name="android:drawableEnd">@drawable/tab_bar_background</item>
+        <item name="colorPrimary">@color/selectedColor</item>
+        <item name="colorOnSurface">@color/unselectedColor</item>
+        <item name="colorAccent">#9EF01A</item>
+        <item name="android:windowTranslucentStatus">false</item>
+
+    </style>
+    <style name="BottomNavThem" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#9EF01A</item>
+
+    </style>
+    <style name="Theme.DoAnAndroid" parent="Base.Theme.DoAnAndroid"/>
+</resources>

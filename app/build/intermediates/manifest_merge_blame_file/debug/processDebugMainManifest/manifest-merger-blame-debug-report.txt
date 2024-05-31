@@ -1,0 +1,461 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vungocminh.doanandroid"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:6:1-75
+11-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:6:18-72
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:7:5-81
+12-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:8:5-66
+13-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+14-->[com.google.android.recaptcha:recaptcha:18.4.0] /Users/vungocminh/.gradle/caches/transforms-3/d8fb97e393e7d77d90fd8edfba93a84b/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+14-->[com.google.android.recaptcha:recaptcha:18.4.0] /Users/vungocminh/.gradle/caches/transforms-3/d8fb97e393e7d77d90fd8edfba93a84b/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+15
+16    <permission
+16-->[androidx.core:core:1.13.0] /Users/vungocminh/.gradle/caches/transforms-3/a81b93aef6d95cf14b55b919ee3d6f4d/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+17        android:name="com.vungocminh.doanandroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.13.0] /Users/vungocminh/.gradle/caches/transforms-3/a81b93aef6d95cf14b55b919ee3d6f4d/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.13.0] /Users/vungocminh/.gradle/caches/transforms-3/a81b93aef6d95cf14b55b919ee3d6f4d/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.vungocminh.doanandroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.13.0] /Users/vungocminh/.gradle/caches/transforms-3/a81b93aef6d95cf14b55b919ee3d6f4d/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.13.0] /Users/vungocminh/.gradle/caches/transforms-3/a81b93aef6d95cf14b55b919ee3d6f4d/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:10:5-79:19
+23        android:allowBackup="true"
+23-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:11:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.13.0] /Users/vungocminh/.gradle/caches/transforms-3/a81b93aef6d95cf14b55b919ee3d6f4d/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:12:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:13:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:14:9-43
+30        android:label="@string/app_name"
+30-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:15:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:16:9-54
+32        android:supportsRtl="true"
+32-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:17:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.DoAnAndroid" >
+34-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:18:9-49
+35        <activity
+35-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:20:9-28:20
+36            android:name="com.vungocminh.doanandroid.MainActivity"
+36-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:21:13-41
+37            android:exported="true" >
+37-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:22:13-36
+38            <intent-filter>
+38-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:23:13-27:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:24:17-69
+39-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:24:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:26:17-77
+41-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:26:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:29:9-33:20
+45            android:name="com.vungocminh.doanandroid.LoginActivity"
+45-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:29:19-48
+46            android:screenOrientation="portrait" >
+46-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:30:13-49
+47        </activity>
+48        <activity
+48-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:34:9-37:20
+49            android:name="com.vungocminh.doanandroid.ProductListActivity"
+49-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:34:19-54
+50            android:screenOrientation="portrait" >
+50-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:35:13-49
+51        </activity>
+52        <activity
+52-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:38:9-41:20
+53            android:name="com.vungocminh.doanandroid.RegisterActivity"
+53-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:38:19-51
+54            android:screenOrientation="portrait" >
+54-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:39:13-49
+55        </activity>
+56        <activity
+56-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:42:9-45:20
+57            android:name="com.vungocminh.doanandroid.NoConnectionActivity"
+57-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:42:19-55
+58            android:screenOrientation="portrait" >
+58-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:43:13-49
+59        </activity>
+60        <activity
+60-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:46:9-49:20
+61            android:name="com.vungocminh.doanandroid.SearchResultsActivity"
+61-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:46:19-56
+62            android:screenOrientation="portrait" >
+62-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:47:13-49
+63        </activity>
+64        <activity
+64-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:51:9-54:20
+65            android:name="com.vungocminh.doanandroid.ProductDetailActivity"
+65-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:51:19-56
+66            android:screenOrientation="portrait" >
+66-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:52:13-49
+67        </activity>
+68        <activity
+68-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:55:9-58:20
+69            android:name="com.vungocminh.doanandroid.ChatActivity"
+69-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:55:19-47
+70            android:screenOrientation="portrait" >
+70-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:56:13-49
+71        </activity>
+72        <activity
+72-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:59:3-62:12
+73            android:name="com.vungocminh.doanandroid.ShoppingCartActivity"
+73-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:59:13-49
+74            android:launchMode="singleTop"
+74-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:61:5-35
+75            android:screenOrientation="portrait" >
+75-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:60:5-41
+76        </activity>
+77        <activity
+77-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:64:9-67:20
+78            android:name="com.vungocminh.doanandroid.FavoriteActivity"
+78-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:64:19-51
+79            android:screenOrientation="portrait" >
+79-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:65:13-49
+80        </activity>
+81        <activity
+81-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:69:9-72:20
+82            android:name="com.vungocminh.doanandroid.PaymentActivity"
+82-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:69:19-50
+83            android:screenOrientation="portrait" >
+83-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:70:13-49
+84        </activity>
+85        <activity
+85-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:74:9-78:20
+86            android:name="com.vungocminh.doanandroid.OrderHistoryActivity"
+86-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:74:19-55
+87            android:screenOrientation="portrait" >
+87-->/Users/vungocminh/AndroidStudioProjects/DoAnAndroid/app/src/main/AndroidManifest.xml:75:13-49
+88        </activity>
+89        <activity
+89-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
+90            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+90-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
+91            android:excludeFromRecents="true"
+91-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
+92            android:exported="true"
+92-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
+93            android:launchMode="singleTask"
+93-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
+94            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+94-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
+95            <intent-filter>
+95-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
+96                <action android:name="android.intent.action.VIEW" />
+96-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+96-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+97
+98                <category android:name="android.intent.category.DEFAULT" />
+98-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+98-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+99                <category android:name="android.intent.category.BROWSABLE" />
+99-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+99-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+100
+101                <data
+101-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+102                    android:host="firebase.auth"
+102-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+103                    android:path="/"
+103-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+104                    android:scheme="genericidp" />
+104-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+105            </intent-filter>
+106        </activity>
+107        <activity
+107-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
+108            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+108-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
+109            android:excludeFromRecents="true"
+109-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
+110            android:exported="true"
+110-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
+111            android:launchMode="singleTask"
+111-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
+112            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+112-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
+113            <intent-filter>
+113-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
+114                <action android:name="android.intent.action.VIEW" />
+114-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+114-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+115
+116                <category android:name="android.intent.category.DEFAULT" />
+116-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+116-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+117                <category android:name="android.intent.category.BROWSABLE" />
+117-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+117-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+118
+119                <data
+119-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+120                    android:host="firebase.auth"
+120-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+121                    android:path="/"
+121-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+122                    android:scheme="recaptcha" />
+122-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+123            </intent-filter>
+124        </activity>
+125
+126        <service
+126-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+127            android:name="com.google.firebase.components.ComponentDiscoveryService"
+127-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:67:13-84
+128            android:directBootAware="true"
+128-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+129            android:exported="false" >
+129-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:68:13-37
+130            <meta-data
+130-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+131                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+131-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:70:17-109
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-auth:23.0.0] /Users/vungocminh/.gradle/caches/transforms-3/d9e8c6d99c6a3eb21aabc9fe9f30bc08/transformed/firebase-auth-23.0.0/AndroidManifest.xml:71:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-database:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/74b810a43d06e64f918e0bb50b8cfbbb/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+134                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+134-->[com.google.firebase:firebase-database:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/74b810a43d06e64f918e0bb50b8cfbbb/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-database:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/74b810a43d06e64f918e0bb50b8cfbbb/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+136            <meta-data
+136-->[com.google.firebase:firebase-database:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/74b810a43d06e64f918e0bb50b8cfbbb/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+137                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+137-->[com.google.firebase:firebase-database:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/74b810a43d06e64f918e0bb50b8cfbbb/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-database:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/74b810a43d06e64f918e0bb50b8cfbbb/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+139            <meta-data
+139-->[com.google.firebase:firebase-firestore:25.0.0] /Users/vungocminh/.gradle/caches/transforms-3/78ef095157dd303f20364b7ef8529e32/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:17:13-19:85
+140                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+140-->[com.google.firebase:firebase-firestore:25.0.0] /Users/vungocminh/.gradle/caches/transforms-3/78ef095157dd303f20364b7ef8529e32/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:18:17-122
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.firebase:firebase-firestore:25.0.0] /Users/vungocminh/.gradle/caches/transforms-3/78ef095157dd303f20364b7ef8529e32/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:19:17-82
+142            <meta-data
+142-->[com.google.firebase:firebase-firestore:25.0.0] /Users/vungocminh/.gradle/caches/transforms-3/78ef095157dd303f20364b7ef8529e32/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:20:13-22:85
+143                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+143-->[com.google.firebase:firebase-firestore:25.0.0] /Users/vungocminh/.gradle/caches/transforms-3/78ef095157dd303f20364b7ef8529e32/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:21:17-111
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[com.google.firebase:firebase-firestore:25.0.0] /Users/vungocminh/.gradle/caches/transforms-3/78ef095157dd303f20364b7ef8529e32/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:22:17-82
+145            <meta-data
+145-->[com.google.firebase:firebase-storage:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/e546793e2b346e118bfc1426cc8daf37/transformed/firebase-storage-21.0.0/AndroidManifest.xml:30:13-32:85
+146                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+146-->[com.google.firebase:firebase-storage:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/e546793e2b346e118bfc1426cc8daf37/transformed/firebase-storage-21.0.0/AndroidManifest.xml:31:17-118
+147                android:value="com.google.firebase.components.ComponentRegistrar" />
+147-->[com.google.firebase:firebase-storage:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/e546793e2b346e118bfc1426cc8daf37/transformed/firebase-storage-21.0.0/AndroidManifest.xml:32:17-82
+148            <meta-data
+148-->[com.google.firebase:firebase-storage:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/e546793e2b346e118bfc1426cc8daf37/transformed/firebase-storage-21.0.0/AndroidManifest.xml:33:13-35:85
+149                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+149-->[com.google.firebase:firebase-storage:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/e546793e2b346e118bfc1426cc8daf37/transformed/firebase-storage-21.0.0/AndroidManifest.xml:34:17-107
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->[com.google.firebase:firebase-storage:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/e546793e2b346e118bfc1426cc8daf37/transformed/firebase-storage-21.0.0/AndroidManifest.xml:35:17-82
+151            <meta-data
+151-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/vungocminh/.gradle/caches/transforms-3/53cac189fda9cb140b668101e5c29a6c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:25:13-27:85
+152                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+152-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/vungocminh/.gradle/caches/transforms-3/53cac189fda9cb140b668101e5c29a6c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:26:17-120
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/vungocminh/.gradle/caches/transforms-3/53cac189fda9cb140b668101e5c29a6c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:27:17-82
+154            <meta-data
+154-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/vungocminh/.gradle/caches/transforms-3/53cac189fda9cb140b668101e5c29a6c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:28:13-30:85
+155                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+155-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/vungocminh/.gradle/caches/transforms-3/53cac189fda9cb140b668101e5c29a6c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:29:17-117
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/vungocminh/.gradle/caches/transforms-3/53cac189fda9cb140b668101e5c29a6c/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:30:17-82
+157            <meta-data
+157-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/cc273493ed3ab7571c8fb26c91a4eba1/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+158                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+158-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/cc273493ed3ab7571c8fb26c91a4eba1/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/cc273493ed3ab7571c8fb26c91a4eba1/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+160            <meta-data
+160-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+161                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+161-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+163        </service>
+164        <service
+164-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+165            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+165-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+166            android:enabled="true"
+166-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+167            android:exported="false" >
+167-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+168            <meta-data
+168-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+169                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+169-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+170                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
+170-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+171        </service>
+172
+173        <activity
+173-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+174            android:name="androidx.credentials.playservices.HiddenActivity"
+174-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+175            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+175-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+176            android:enabled="true"
+176-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+177            android:exported="false"
+177-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+178            android:fitsSystemWindows="true"
+178-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+179            android:theme="@style/Theme.Hidden" >
+179-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/vungocminh/.gradle/caches/transforms-3/0b3eec4e1d8f349a92dfad407d6af30c/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+180        </activity>
+181        <activity
+181-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+182            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+182-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+183            android:excludeFromRecents="true"
+183-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+184            android:exported="false"
+184-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+185            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+185-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+186        <!--
+187            Service handling Google Sign-In user revocation. For apps that do not integrate with
+188            Google Sign-In, this service will never be started.
+189        -->
+190        <service
+190-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+191            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+191-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+192            android:exported="true"
+192-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+193            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+193-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+194            android:visibleToInstantApps="true" />
+194-->[com.google.android.gms:play-services-auth:20.7.0] /Users/vungocminh/.gradle/caches/transforms-3/1157df0836ac8dd2def1db8ac709444e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+195
+196        <provider
+196-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+197            android:name="com.google.firebase.provider.FirebaseInitProvider"
+197-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+198            android:authorities="com.vungocminh.doanandroid.firebaseinitprovider"
+198-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+199            android:directBootAware="true"
+199-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+200            android:exported="false"
+200-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+201            android:initOrder="100" />
+201-->[com.google.firebase:firebase-common:21.0.0] /Users/vungocminh/.gradle/caches/transforms-3/2d42de31d8e45960834411c3330833bf/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+202
+203        <activity
+203-->[com.google.android.gms:play-services-base:18.1.0] /Users/vungocminh/.gradle/caches/transforms-3/0e8ab981a1f1b005681554bcaeca645b/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+204            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+204-->[com.google.android.gms:play-services-base:18.1.0] /Users/vungocminh/.gradle/caches/transforms-3/0e8ab981a1f1b005681554bcaeca645b/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+205            android:exported="false"
+205-->[com.google.android.gms:play-services-base:18.1.0] /Users/vungocminh/.gradle/caches/transforms-3/0e8ab981a1f1b005681554bcaeca645b/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+206            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+206-->[com.google.android.gms:play-services-base:18.1.0] /Users/vungocminh/.gradle/caches/transforms-3/0e8ab981a1f1b005681554bcaeca645b/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+207
+208        <provider
+208-->[androidx.emoji2:emoji2:1.2.0] /Users/vungocminh/.gradle/caches/transforms-3/301ef77cae21004a2438f3436d09dd80/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+209            android:name="androidx.startup.InitializationProvider"
+209-->[androidx.emoji2:emoji2:1.2.0] /Users/vungocminh/.gradle/caches/transforms-3/301ef77cae21004a2438f3436d09dd80/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+210            android:authorities="com.vungocminh.doanandroid.androidx-startup"
+210-->[androidx.emoji2:emoji2:1.2.0] /Users/vungocminh/.gradle/caches/transforms-3/301ef77cae21004a2438f3436d09dd80/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+211            android:exported="false" >
+211-->[androidx.emoji2:emoji2:1.2.0] /Users/vungocminh/.gradle/caches/transforms-3/301ef77cae21004a2438f3436d09dd80/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+212            <meta-data
+212-->[androidx.emoji2:emoji2:1.2.0] /Users/vungocminh/.gradle/caches/transforms-3/301ef77cae21004a2438f3436d09dd80/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+213                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+213-->[androidx.emoji2:emoji2:1.2.0] /Users/vungocminh/.gradle/caches/transforms-3/301ef77cae21004a2438f3436d09dd80/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+214                android:value="androidx.startup" />
+214-->[androidx.emoji2:emoji2:1.2.0] /Users/vungocminh/.gradle/caches/transforms-3/301ef77cae21004a2438f3436d09dd80/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+215            <meta-data
+215-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/vungocminh/.gradle/caches/transforms-3/20aa4630c2949f58cd1c28f4665914e0/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+216                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+216-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/vungocminh/.gradle/caches/transforms-3/20aa4630c2949f58cd1c28f4665914e0/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+217                android:value="androidx.startup" />
+217-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/vungocminh/.gradle/caches/transforms-3/20aa4630c2949f58cd1c28f4665914e0/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+218            <meta-data
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+219                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+219-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+220                android:value="androidx.startup" />
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+221        </provider>
+222
+223        <meta-data
+223-->[com.google.android.gms:play-services-basement:18.3.0] /Users/vungocminh/.gradle/caches/transforms-3/46def181db3aa1604bddc3ef2387faff/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+224            android:name="com.google.android.gms.version"
+224-->[com.google.android.gms:play-services-basement:18.3.0] /Users/vungocminh/.gradle/caches/transforms-3/46def181db3aa1604bddc3ef2387faff/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+225            android:value="@integer/google_play_services_version" />
+225-->[com.google.android.gms:play-services-basement:18.3.0] /Users/vungocminh/.gradle/caches/transforms-3/46def181db3aa1604bddc3ef2387faff/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+226
+227        <provider
+227-->[com.squareup.picasso:picasso:2.71828] /Users/vungocminh/.gradle/caches/transforms-3/db47d6bd1e1a5f0c79e13304d1078d36/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+228            android:name="com.squareup.picasso.PicassoProvider"
+228-->[com.squareup.picasso:picasso:2.71828] /Users/vungocminh/.gradle/caches/transforms-3/db47d6bd1e1a5f0c79e13304d1078d36/transformed/picasso-2.71828/AndroidManifest.xml:9:13-64
+229            android:authorities="com.vungocminh.doanandroid.com.squareup.picasso"
+229-->[com.squareup.picasso:picasso:2.71828] /Users/vungocminh/.gradle/caches/transforms-3/db47d6bd1e1a5f0c79e13304d1078d36/transformed/picasso-2.71828/AndroidManifest.xml:10:13-72
+230            android:exported="false" />
+230-->[com.squareup.picasso:picasso:2.71828] /Users/vungocminh/.gradle/caches/transforms-3/db47d6bd1e1a5f0c79e13304d1078d36/transformed/picasso-2.71828/AndroidManifest.xml:11:13-37
+231
+232        <receiver
+232-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+233            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+233-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+234            android:directBootAware="false"
+234-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+235            android:enabled="true"
+235-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+236            android:exported="true"
+236-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+237            android:permission="android.permission.DUMP" >
+237-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+238            <intent-filter>
+238-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+239                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+239-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+239-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+240            </intent-filter>
+241            <intent-filter>
+241-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+242                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+242-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+242-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+243            </intent-filter>
+244            <intent-filter>
+244-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+245                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+245-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+245-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+246            </intent-filter>
+247            <intent-filter>
+247-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+248                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+248-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+248-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vungocminh/.gradle/caches/transforms-3/649b3a737a58b026df3e78087f982663/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+249            </intent-filter>
+250        </receiver>
+251    </application>
+252
+253</manifest>

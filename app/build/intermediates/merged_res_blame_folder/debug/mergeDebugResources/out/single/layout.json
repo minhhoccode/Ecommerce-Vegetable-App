@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_search_results.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_search_results.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_re_useable_nav.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_re_useable_nav.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_favorite.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_favorite.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_product_list.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/item_product.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/item_product.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_payment.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/item_cart_product.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/item_cart_product.xml"
+    },
+    {
+        "merged": "com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/bot_item_activity.xml",
+        "source": "com.vungocminh.doanandroid.app-main-43:/layout/bot_item_activity.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_home.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_register.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/bot_item_activity.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/bot_item_activity.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/item_order.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/item_order.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/user_item_activity.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/user_item_activity.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_order_history.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_order_history.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_product_detail2.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_product_detail2.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_no_connection.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_no_connection.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_shopping_cart.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_shopping_cart.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/test.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/test.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_login.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-mergeDebugResources-40:/layout/activity_chat.xml",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_chat.xml"
+    }
+]

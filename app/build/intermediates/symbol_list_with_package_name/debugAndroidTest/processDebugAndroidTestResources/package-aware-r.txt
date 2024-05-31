@@ -1,0 +1,3 @@
+com.vungocminh.doanandroid.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

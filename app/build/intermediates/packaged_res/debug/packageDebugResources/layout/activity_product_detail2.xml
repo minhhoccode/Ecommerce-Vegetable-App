@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/white"
+    >
+
+    <ImageView android:id="@+id/product_image" android:layout_width="match_parent" android:layout_height="400dp" android:scaleType="centerCrop" android:src="@drawable/ic_launcher_background" android:layout_alignParentTop="true"/>
+
+    <TextView
+        android:id="@+id/product_name"
+        android:layout_width="261dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/product_image"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:ellipsize="end"
+        android:fontFamily="@font/gilroy_bold"
+        android:maxLength="40"
+        android:maxLines="2"
+        android:text="Organic Spinach"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+    <TextView android:id="@+id/product_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_below="@id/product_image"
+        android:text="14.29$"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/gilroy_bold"/>
+
+
+    <TextView android:id="@+id/product_weight" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/product_name" android:layout_marginBottom= "8dp" android:layout_marginLeft="16dp" android:text="500 gm." android:textSize="16sp" android:fontFamily="@font/gilroy"/>
+
+    <TextView
+        android:id="@+id/product_description"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/product_weight"
+        android:layout_marginTop="0dp"
+        android:text="Spinach (Spinacia oleracea) is a leafy green vegetable that originated in Persia. It belongs to the amaranth family and is related to beets and quinoa. What's more, it's considered very healthy."
+        android:textSize="16sp"
+        android:maxLines="4"
+        android:ellipsize="end"
+        android:fontFamily="@font/gilroy"/>
+
+    <LinearLayout
+        android:id="@+id/quantity_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/add_to_cart"
+        android:layout_margin="16dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/decrease_quantity"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/ic_decrease" />
+
+        <TextView
+            android:id="@+id/quantity"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="19dp"
+            android:layout_marginRight="18dp"
+            android:fontFamily="@font/gilroy_medium"
+            android:text="01"
+            android:textSize="20sp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/increase_quantity"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/ic_increase" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/add_to_favorite"
+        android:text="Add to Favorite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="16dp"
+        android:background="@null"
+        android:textColor="@android:color/black"
+        android:fontFamily="@font/gilroy_medium" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/add_to_cart"
+        android:text="Add to Cart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/add_to_favorite"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/button_background"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/gilroy_medium" />
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.DoAnAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.DoAnAndroid" parent="Base.Theme.DoAnAndroid"/>
+</resources>

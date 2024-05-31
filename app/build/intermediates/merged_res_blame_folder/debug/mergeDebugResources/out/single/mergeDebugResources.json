@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_login.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_banner.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/banner.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_input_background.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/input_background.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_favorite.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_favorite.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_rau.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/rau.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_circle_shape.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/circle_shape.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_nav_item_color_state.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/nav_item_color_state.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_chat.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_home.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_bottom_nav_item_color.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_bot_item_activity.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/bot_item_activity.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_background.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/background.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_gradient_background.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/font_gilroy_bold.otf.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/font/gilroy_bold.otf"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_favourite.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_favourite.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_circle_ripple.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/circle_ripple.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_order_history.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_order_history.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_userprofile.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_userprofile.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_shopping_cart.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_shopping_cart.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_re_useable_nav.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_re_useable_nav.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_bottom_nav_background.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/bottom_nav_background.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_favorite.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_favorite.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_grid.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_grid.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_message.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_message.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_message_dark.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_message_dark.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_search_results.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_search_results.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_categories.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/categories.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_back_arrow.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_back_arrow.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_wifi.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/wifi.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_facebook.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_facebook.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_payment.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_user_item_activity.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/user_item_activity.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_search_background.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/search_background.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_item_product.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/item_product.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_person.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_person.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_item_cart_product.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/item_cart_product.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_vege_icon.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/vege_icon.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/color_bottom_bar.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/color/bottom_bar.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_decrease.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_decrease.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/color_bottom_nav_item_color.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/color/bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/color_red.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/color/red.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_register.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_container_button.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/container_button.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_bg_search.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/bg_search.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_product_detail2.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_product_detail2.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_log_with.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/log_with.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_google.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_google.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_bottom_nav_item_background.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/bottom_nav_item_background.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.vungocminh.doanandroid.app-debug-41:/layout_bot_item_activity.xml.flat",
+        "source": "com.vungocminh.doanandroid.app-main-43:/layout/bot_item_activity.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_search.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_search.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_cart.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_cart.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/xml_backup_rules.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/font_gilroy.otf.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/font/gilroy.otf"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_salad.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/salad.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_no_connection.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_no_connection.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_apple.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_apple.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_item_order.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/item_order.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_button_background.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/button_background.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_activity_product_list.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/layout_test.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/layout/test.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_icon_border.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/icon_border.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_tab_bar_background.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/tab_bar_background.xml"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_increase.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_increase.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/font_gilroy_medium.otf.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/font/gilroy_medium.otf"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_ic_home.png.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/ic_home.png"
+    },
+    {
+        "merged": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-debug-41:/drawable_drawable_shape.xml.flat",
+        "source": "/Users/vungocminh/.gradle/daemon/8.4/com.vungocminh.doanandroid.app-main-43:/drawable/drawable_shape.xml"
+    }
+]

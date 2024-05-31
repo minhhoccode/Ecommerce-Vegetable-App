@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.vungocminh.doanandroid.app-mergeDebugResources-39:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/vungocminh/.gradle/caches/transforms-3/314aedfc9cbc3553e9089cdbcf768604/transformed/material-1.12.0/res/values-small-v4/values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}
