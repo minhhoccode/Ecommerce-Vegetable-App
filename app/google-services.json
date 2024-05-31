@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "308492106676",
+    "firebase_url": "https://doanandroid-14735-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "doanandroid-14735",
+    "storage_bucket": "doanandroid-14735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308492106676:android:2a1e40d0c80979e23550e1",
+        "android_client_info": {
+          "package_name": "com.vungocminh.doanandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu88rUkIkYIGW7JTy4Y02izGwvNHQQjWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

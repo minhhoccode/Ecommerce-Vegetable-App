@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DoAnAndroid" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">#0A4731</item>
+<!--        <item name="android:windowLightStatusBar">true</item>-->
+        <item name="android:drawableBottom">@drawable/bottom_nav_background</item>
+        <item name="android:drawableTop">@drawable/tab_bar_background</item>
+        <item name="android:drawableStart">@drawable/tab_bar_background</item>
+        <item name="android:drawableEnd">@drawable/tab_bar_background</item>
+        <item name="colorPrimary">@color/selectedColor</item>
+        <item name="colorOnSurface">@color/unselectedColor</item>
+        <item name="colorAccent">#9EF01A</item>
+        <item name="android:windowTranslucentStatus">false</item>
+<!--        <item name="android:statusBarColor">@android:color/transparent</item>-->
+    </style>
+    <style name="Theme.DoAnAndroid" parent="Base.Theme.DoAnAndroid" />
+</resources>

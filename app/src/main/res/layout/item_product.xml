@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:background="@drawable/drawable_shape">
+
+    <LinearLayout
+        android:id="@+id/container_product_product_with_counter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="8dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp">
+
+        <FrameLayout
+            android:id="@+id/container_product_image"
+            android:layout_width="172dp"
+            android:layout_height="124dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dp"
+            >
+
+            <ImageView
+                android:id="@+id/image_product_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@mipmap/ic_launcher_round"
+                />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/product_title"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:includeFontPadding="false"
+            android:maxLines="1"
+            android:fontFamily="@font/gilroy_bold"
+            android:singleLine="true"
+            android:text="Strawberry"
+            android:textColor="#FF1D2939"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/product_weight"
+            android:layout_width="wrap_content"
+            android:layout_height="16dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:includeFontPadding="false"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:fontFamily="@font/gilroy"
+            android:text="500 gm."
+            android:textColor="#FF667085"
+            android:textSize="12dp" />
+
+        <LinearLayout
+            android:id="@+id/container_headline3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="-2dp"
+            android:clipToPadding="false"
+            android:gravity="center_horizontal|top"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp">
+
+            <TextView
+                android:id="@+id/price1"
+                android:layout_width="wrap_content"
+                android:layout_height="44dp"
+                android:layout_marginTop="-2dp"
+                android:layout_marginBottom="-2dp"
+                android:gravity="center_horizontal|center_vertical"
+                android:includeFontPadding="false"
+                android:fontFamily="@font/gilroy_bold"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:text="66."
+                android:textColor="#FF1D2939"
+                android:textSize="30dp" />
+
+            <TextView
+                android:id="@+id/price2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal|center_vertical"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:text="29$"
+                android:fontFamily="@font/gilroy_bold"
+                android:layout_marginTop="-13dp"
+                android:textColor="#FF1D2939"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/container_button"
+            android:layout_width="172dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/container_button"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="13dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp">
+
+            <LinearLayout
+                android:id="@+id/container_caption"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/ic_increa"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_increase" />
+
+                <TextView
+                    android:id="@+id/numbers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="8dp"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:includeFontPadding="false"
+                    android:maxLines="1"
+                    android:singleLine="true"
+                    android:text="Add to cart"
+                    android:fontFamily="@font/gilroy_medium"
+                    android:textColor="#FF1D2939"
+                    android:textSize="14dp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>
